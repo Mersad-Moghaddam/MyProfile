@@ -1,5 +1,6 @@
 # flutter_ui
 
+<img src="assets/screenshots/dark_1.png" height="500em" />&nbsp;
 A new Flutter UI  project.
 
 ## Getting Started
